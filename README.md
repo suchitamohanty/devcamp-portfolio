@@ -13,8 +13,8 @@ This is a Ruby on Rails 5 aplication that alows users to create their own portfo
 
 ```ruby
 def my_great method
- 	puts "here it is"
- end
+ puts "here it is"
+end
  ```
  ```Javascript
 alert ('Hi there');
