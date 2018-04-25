@@ -39,7 +39,7 @@ puts "5 skills created"
 			editors now use Lorem Ipsum as their default model text, and
 			a search for 'lorem ipsum' will uncover many web sites still in
 			their infancy.",
-		maain_image: "http://via.placeholder.com/350x150",
+		maain_image: "http://via.placeholder.com/600x400",
 		thumb_image: "http://via.placeholder.com/350x200"
 	)
 end
